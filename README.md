@@ -1,18 +1,18 @@
 # Hi, I'm Gouri 👋
 
-My background is in Psychology and Human Capital, where I developed a strong interest in understanding how people make decisions, interact with systems, and influence business outcomes.
+I'm passionate about using data to uncover insights, solve business problems, and support data-driven decision making.
 
-Today, I'm expanding that curiosity through data analytics using Python, SQL, Power BI, and machine learning to uncover patterns, answer questions, and support better decision-making.
+My work focuses on data analysis, visualization, machine learning, and building practical solutions using Python, SQL, Power BI, and statistical methods.
 
-My projects span exploratory data analysis, visualizations, dashboard development, predictive modeling, and business-focused problem solving. While I'm particularly interested in people and behavioral data, I'm equally excited by opportunities to work across business, customer, operational, and workforce analytics.
+I'm currently exploring projects across business analytics, customer insights, operations, and people analytics, with a focus on turning complex data into clear, actionable outcomes.
 
 ### Tools & Skills
 
-Python • SQL • Power BI • Excel • Machine Learning • Data Visualization • Statistics
+Python • SQL • Power BI • Excel • Machine Learning • Statistics • Data Visualization
 
-### Current Focus
+### Featured Projects
 
-Building projects, strengthening analytical thinking, and applying data to real-world business challenges.
+Explore my repositories to see projects involving exploratory data analysis, predictive modeling, dashboards, and interactive applications.
 
 
 <!--
