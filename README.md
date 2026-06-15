@@ -1,14 +1,14 @@
 # Hi, I'm Gouri 👋
 
-I'm passionate about using data to uncover insights, solve business problems, and support data-driven decision making.
+I work at the intersection of analytical thinking and business problems — 
+building solutions across customer analytics, operations, workforce insights, 
+and anything where the right question matters as much as the right answer.
 
-My work focuses on data analysis, visualization, machine learning, and building practical solutions using Python, SQL, Power BI, and statistical methods.
+---
 
-I'm currently exploring projects across business analytics, customer insights, operations, and people analytics, with a focus on turning complex data into clear, actionable outcomes.
+### 🛠️ What I work with
+`Python` `SQL` `Power BI` `Excel` `Machine Learning` `Statistics` `Data Visualization`
 
-### Tools & Skills
-
-Python • SQL • Power BI • Excel • Machine Learning • Statistics • Data Visualization
 
 ### Featured Projects
 
