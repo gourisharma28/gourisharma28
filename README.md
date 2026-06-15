@@ -1,6 +1,6 @@
 # Hi, I'm Gouri 👋
 
-I work at the intersection of analytical thinking and business problems — 
+I work at the intersection of analytical thinking and business problems which span over
 building solutions across customer analytics, operations, workforce insights, 
 and anything where the right question matters as much as the right answer.
 
